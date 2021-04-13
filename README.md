@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### My name is Chelsea! I am a college student at the University of Washington learning to code!
 <!--
 **c-rosenboro/c-rosenboro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
